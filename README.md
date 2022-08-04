@@ -1,5 +1,7 @@
 # Data-Science-Numpy-Pandas
 
-- Numpy and Pandas 
-- Practice Problems
+- Numpy 
+- Pandas
+- Matplotlib
+- Seaborn 
 - Regular Expressions 
